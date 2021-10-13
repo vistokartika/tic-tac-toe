@@ -1,6 +1,8 @@
 # tic-tac-toe
 A recreation of one of the most popular two player turn-based game. Tic-tac-toe.
 
+![alt text](https://github.com/vistokartika/tic-tac-toe/blob/main/image.jpg?raw=true)
+
 Tic-tac-toe is a game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner. In this case, the player will be matched againts an implemented Minimax AI Algorithm bot.
 
 # To run the game
